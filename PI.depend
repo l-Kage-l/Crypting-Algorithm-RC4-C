@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1578950307 source:c:\users\sinic\desktop\pi\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdlib.h>
+
+1578950480 source:i:\pi\pi\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdlib.h>
+
+1581931617 source:c:\users\mihai\desktop\pi\pi\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdlib.h>
+	<fstream>
+
